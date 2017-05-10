@@ -2,7 +2,7 @@ package com.source.it.lecture2.homework;
 
 public class ClockAngel {
     public static void main(String[] args) {
-        int hours = 11;//1 hour - 30 degrees
+        int hours = 2;//1 hour - 30 degrees
         int mins = 30;//1 min - 6 degrees
         int result = 0;
 
